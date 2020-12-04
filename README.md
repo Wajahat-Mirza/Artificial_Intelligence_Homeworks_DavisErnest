@@ -1,0 +1,2 @@
+# Artificial_Intelligence_Homeworks_DavisErnest
+CSCI-472 Artificial Intelligence
